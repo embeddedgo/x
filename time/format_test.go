@@ -11,7 +11,7 @@ import (
 	"testing"
 	"testing/quick"
 	
-	. "github.com/embeddedgo/time"
+	. "github.com/embeddedgo/x/time"
 )
 
 var nextStdChunkTests = []string{

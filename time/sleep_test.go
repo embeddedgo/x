@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"testing"
 	
-	. "github.com/embeddedgo/time"
+	. "github.com/embeddedgo/x/time"
 )
 
 // Go runtime uses different Windows timers for time.Now and sleeping.

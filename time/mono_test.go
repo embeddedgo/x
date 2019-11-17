@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 	
-	. "github.com/embeddedgo/time"
+	. "github.com/embeddedgo/x/time"
 )
 
 func TestHasMonotonicClock(t *testing.T) {

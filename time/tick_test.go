@@ -6,7 +6,7 @@ package time_test
 
 import (
 	"testing"
-	. "github.com/embeddedgo/time"
+	. "github.com/embeddedgo/x/time"
 )
 
 func TestTicker(t *testing.T) {

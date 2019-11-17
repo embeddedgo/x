@@ -17,8 +17,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	. "github.com/embeddedgo/time"
-	. "github.com/embeddedgo/time/tz"
+	. "github.com/embeddedgo/x/time"
+	. "github.com/embeddedgo/x/time/tz"
 )
 
 // We should be in PST/PDT, but if the time zone files are missing we

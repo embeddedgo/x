@@ -7,8 +7,8 @@ package time_test
 import (
 	"fmt"
 
-	"github.com/embeddedgo/time"
-	"github.com/embeddedgo/time/tz"
+	"github.com/embeddedgo/x/time"
+	"github.com/embeddedgo/x/time/tz"
 )
 
 func expensiveCall() {}
