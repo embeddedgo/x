@@ -4,7 +4,7 @@
 
 package tz
 
-import "github.com/embeddedgo/time"
+import "github.com/embeddedgo/x/time"
 
 var (
 	CET  = time.Zone{"CET", 1 * 3600}

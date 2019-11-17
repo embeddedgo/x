@@ -4,7 +4,7 @@
 
 package tz
 
-import "github.com/embeddedgo/time"
+import "github.com/embeddedgo/x/time"
 
 var (
 	AEST = time.Zone{"AEST", 10 * 3600}
